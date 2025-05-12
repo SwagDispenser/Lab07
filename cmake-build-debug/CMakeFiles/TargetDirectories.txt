@@ -1,0 +1,3 @@
+/Users/dmytro/CLionProjects/ooplb07/cmake-build-debug/CMakeFiles/ooplb07.dir
+/Users/dmytro/CLionProjects/ooplb07/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmytro/CLionProjects/ooplb07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
